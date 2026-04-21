@@ -1,0 +1,2 @@
+# SIGED-certificado-secundaria-autenticacion-VAOJ001209HCCZLSA1
+VAOJ001209HCCZLSA1
